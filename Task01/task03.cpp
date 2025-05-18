@@ -51,5 +51,5 @@ bool task03(int x1, int y1, int x2, int y2) {
 	}
 
 
-	return false;
+	return y2 == 8;
 }
